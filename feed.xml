@@ -3,10 +3,71 @@
     <title>Emer.be</title>
     <link href="https://emer.be/feed.xml" rel="self" />
     <link href="https://emer.be" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-11-14T03:46:38+01:00</updated>
     <author>
         <name>brechtvideo</name>
     </author>
     <id>https://emer.be</id>
 
+    <entry>
+        <title>Brechtvideo nu  </title>
+        <author>
+            <name>brechtvideo</name>
+        </author>
+        <link href="https://emer.be/brechtvideo-nu/"/>
+        <id>https://emer.be/brechtvideo-nu/</id>
+
+        <updated>2026-11-14T03:45:47+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Het was 16 jaar stil op youtube, strooide ik met woorden op radio1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Het was 16 jaar stil op youtube, strooide ik met woorden op radio1</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/PlBU-2cgPag" allowfullscreen="allowfullscreen"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Brechtprivé sinds 2010</title>
+        <author>
+            <name>brechtvideo</name>
+        </author>
+        <link href="https://emer.be/brechtprive-sinds-2010/"/>
+        <id>https://emer.be/brechtprive-sinds-2010/</id>
+
+        <updated>2026-11-14T03:41:09+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Brechtvideo kent zijn oorsprong op youtube in 2010. Niet toevallig het jaar waarin mijn zoon Elan geboren is. Dit is de meest persoonlijke&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Brechtvideo kent zijn oorsprong op youtube in 2010. Niet toevallig het jaar waarin mijn zoon Elan geboren is. Dit is de meest persoonlijke videopagina waarin ik geen kleinkunst maar "kunst met een kleintje" uitprobeer  <figure class="post__image"><img loading="lazy"  src="https://emer.be/media/posts/2/brecht-14jaar.jpg" alt="" width="1868" height="2048" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emer.be/media/posts/2/responsive/brecht-14jaar-xs.jpg 300w ,https://emer.be/media/posts/2/responsive/brecht-14jaar-sm.jpg 480w ,https://emer.be/media/posts/2/responsive/brecht-14jaar-md.jpg 768w ,https://emer.be/media/posts/2/responsive/brecht-14jaar-lg.jpg 1024w ,https://emer.be/media/posts/2/responsive/brecht-14jaar-xl.jpg 1360w ,https://emer.be/media/posts/2/responsive/brecht-14jaar-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Brechtradio sinds 1976</title>
+        <author>
+            <name>brechtvideo</name>
+        </author>
+        <link href="https://emer.be/brechtradio-sinds-1976/"/>
+        <id>https://emer.be/brechtradio-sinds-1976/</id>
+
+        <updated>2026-11-14T03:40:24+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Wie ben ik en waar kom ik vandaan. Een halve eeuw klank. Nu en dan op uw radio
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Wie ben ik en waar kom ik vandaan. Een halve eeuw klank. Nu en dan op uw <a href="radio1.be" target="_blank" rel="noopener noreferrer">radio</a><figure class="post__image"><img loading="lazy"  src="https://emer.be/media/posts/1/vrt-toren-Brecht.jpeg" alt="" width="1000" height="1000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emer.be/media/posts/1/responsive/vrt-toren-Brecht-xs.jpeg 300w ,https://emer.be/media/posts/1/responsive/vrt-toren-Brecht-sm.jpeg 480w ,https://emer.be/media/posts/1/responsive/vrt-toren-Brecht-md.jpeg 768w ,https://emer.be/media/posts/1/responsive/vrt-toren-Brecht-lg.jpeg 1024w ,https://emer.be/media/posts/1/responsive/vrt-toren-Brecht-xl.jpeg 1360w ,https://emer.be/media/posts/1/responsive/vrt-toren-Brecht-2xl.jpeg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
