@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://emer.be/sitemap.xml
